@@ -6,13 +6,6 @@ function App() {
   const arr2 = ["Samsung", "HTC", "Micromax", "Apple"];
   return (
     <div className="App">
-      {/* Hello React
-      <h1 style={{
-        color: "red",
-        fontSize: "40px",
-        background: "blue",
-      }}>Heading 1</h1>
-      <img src={logo} width={500}/> */}
       <h1>Mobile Operating System
       </h1>
       <ul>
