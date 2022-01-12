@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  color: #fff;
+  background-color: coral;
+  border: 1px solid coral;
+  margin-left: 5px;
+  padding: 2.5px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.list {
+  display: flex;
+  text-align: left;
+  padding: 10px;
+  margin-left: 40px;
+  background-color: rgb(236, 232, 232);
+  width: 60%;
+  margin-top: 10px;
+  justify-content: space-between;
+}
